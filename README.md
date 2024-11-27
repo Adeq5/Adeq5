@@ -1,5 +1,8 @@
 ## Hi there 👋 GitHub? 🤖
 
+🚀 **WebDev | Lifelong Learner**
+
+## 🔍 About Me
 <!--
 **Adeq5/Adeq5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
