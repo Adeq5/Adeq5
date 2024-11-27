@@ -3,6 +3,11 @@
 🚀 **WebDev | Lifelong Learner**
 
 ## 🔍 About Me
+
+- ⚡ Fun fact: 'Argument of type "number" is not assignable to parameter of type "number".
+- 👻 My hobbies: ['Basketball', 'Music', 'Guitar']
+
+  
 <!--
 **Adeq5/Adeq5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
