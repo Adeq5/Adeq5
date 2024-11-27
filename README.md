@@ -6,7 +6,10 @@
 
 - ⚡ Fun fact: 'Argument of type "number" is not assignable to parameter of type "number".
 - 👻 My hobbies: 🏀 Basketball, 🎵 Music, 🎸 Guitar, 📽️ Video Montage, 📷 Photography
-  
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeq5&layout=compact&theme=tokyonight)
+
 ## 🌱 I’m currently learning:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -40,10 +43,7 @@
 <img src="https://img.shields.io/badge/DaVinci%20Resolve-FB0000?style=for-the-badge&logo=davinci-resolve&logoColor=white" width="350" height="50" />
 </div>
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeq5&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeq5&layout=compact&theme=tokyonight)
 
 
 
