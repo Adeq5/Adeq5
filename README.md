@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" width="170" height="50" />
 <img src="https://img.shields.io/badge/DaVinci%20Resolve-FB0000?style=for-the-badge&logo=davinci-resolve&logoColor=white" width="350" height="50" />
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" width="300" height="50" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" width="350" height="50" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" width="320" height="50" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="350" height="50" />
 </div>
 
