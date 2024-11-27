@@ -8,7 +8,7 @@
 - 👻 My hobbies: 🏀 Basketball, 🎵 Music, 🎸 Guitar, 📽️ Video Montage, 📷 Photography
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeq5&layout=compact&theme=tokyonight)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Adeq5&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeq5&layout=compact&theme=tokyonight))
 
 ## 🌱 I’m currently learning:
 
