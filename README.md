@@ -5,8 +5,12 @@
 ## 🔍 About Me
 
 - ⚡ Fun fact: 'Argument of type "number" is not assignable to parameter of type "number".
-- 👻 My hobbies: ['Basketball', 'Music', 'Guitar']
+- 👻 My hobbies: 🏀 Basketball, 🎵 Music, 🎸 Guitar
+  
+## 🌱 I’m currently learning:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 <!--
 **Adeq5/Adeq5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
